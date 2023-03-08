@@ -1,0 +1,3 @@
+﻿- Business Layer katmanı işin geçerliliğinin ve kuralların kontrolünün yapıldığı katmandır.
+Örneğin; Sistemde olan kullanıcının  bu işlemi yapmaya yetkisi var mı?
+	- CategoryName alanı en az 3 karakter en fazla 20 karakter kadar giriş yapılabiliyorsa, kullanıcının girdiği değerlerin bu aralıkta olup olmadığının kontrolü gibi işlemler yapılır. Eğer kontrolleri geçemezse Veri DataAccessLayer katmanına gönderilmez, kullanıcıya bir mesaj gönderilir.

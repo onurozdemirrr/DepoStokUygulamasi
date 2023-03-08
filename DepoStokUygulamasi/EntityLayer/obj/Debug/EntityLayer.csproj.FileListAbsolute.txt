@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\DepoStokUygulamasi\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\pc\source\repos\DepoStokUygulamasi\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\pc\source\repos\DepoStokUygulamasi\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\DepoStokUygulamasi\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DepoStokUygulamasi\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\pc\source\repos\DepoStokUygulamasi\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\onuro\Downloads\DepoStokUygulamasi\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\onuro\Downloads\DepoStokUygulamasi\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\onuro\Downloads\DepoStokUygulamasi\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\onuro\Downloads\DepoStokUygulamasi\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\onuro\Downloads\DepoStokUygulamasi\EntityLayer\obj\Debug\EntityLayer.pdb

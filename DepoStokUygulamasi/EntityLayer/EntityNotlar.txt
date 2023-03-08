@@ -1,0 +1,6 @@
+﻿- Bu katmanda projemizde kullanacağımız entity/varlık sınıflarımız bulunacaktır.
+
+
+
+
+

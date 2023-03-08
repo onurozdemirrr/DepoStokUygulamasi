@@ -1,0 +1,5 @@
+﻿- Veritabanı ile ilgili işlemler bu katman altında yapılacaktır.
+- Farklı bir katman olan EntityLayer içindeki entity Class'larına ulaşabilmem için DAL katmanındaki References'a EntityLayer katmanını eklemem gerekiyor. Bunun için References üzerinde sağ tuş ile tıkladıktan sonra Add Reference => Projects - Solution seçiyoruz. Burada Uygulamamızda bulunan diğer katmanlar görünecek. EntityLayer katmanını ekelyeceğimiz için bu katmanı seçip OK'ye tıklıyoruz. EntityLayer, Refences altında eklnemiş olacak. Artık EntityLayer katmanımızın içerisindeki elemanlara(class'lar interfaceler vb.) DAL içinden ulaşabiliriz. 
+- EntityFramework'ü yüklüyoruz.
+- Context nesnesini oluşturuyoruz.
+- App.config dosyasına connectionString'i ekliyoruz.
